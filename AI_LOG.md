@@ -4,7 +4,7 @@
 3) Bolt ai used for game prototype 
 4) Stich for UI design
 ## Key Prompts for game 
-1. "Build a 2.5D browser puzzle platformer called 'Trust Nothing' with Three.js, deterministic physics, and neon-noir aesthetic." -> *Core Loop & Engine*
+1. "Build a 2.5D browser puzzle platformer called 'Think Beyond' with Three.js, deterministic physics, and neon-noir aesthetic." -> *Core Loop & Engine*
 2. "Implement Level 1 ('The Lying Floor') where platforms labeled SAFE crack and fall, while DANGER platforms are solid." -> *Mechanics (Level 1)*
 3. "Implement Level 2 gravity switch triggered by pressing 'E' on an interactable pedestal, inverting player jumping and Y velocity." -> *Mechanics (Level 2)*
 4. "Rework Level 3 Memory Trap: make the pattern more forgiving and dynamically generate a randomized illuminated false path on each level load/restart." -> *Puzzle Polish & Dynamic Levels*
